@@ -1,0 +1,1227 @@
+@media screen and (max-width: 576px) {
+    .container {
+        max-width: 100%;
+    }
+
+    section {
+        margin-top: 8rem;
+    }
+
+    .main-title {
+        font-size: 35px;
+        line-height: 50px;
+        margin-bottom: 1.8rem;
+    }
+
+    .about-data h3 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .about-detail .Founder-detail {
+        padding-right: 0rem;
+    }
+
+    .popular-packages h3 {
+        font-size: 3rem;
+        line-height: 50px;
+    }
+    .Popular-heading {
+        margin-top: 8rem;
+    }
+
+    .popular-data {
+        text-align: center;
+    }
+
+    .destination h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .going h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-fut-data h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-future {
+        margin-left: 0rem;
+    }
+
+    .blog-left-data {
+        margin-right: 0;
+    }
+
+    #Testimonial .container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    #Testimonial h4 {
+        font-size: 1.5rem;
+        line-height: 5rem;
+     
+    }
+     #Testimonial h2 {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+    .nevigation-button {
+        justify-content: center;
+    }
+    .right-detail h3 {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+    .form-detail {
+        margin-right: 0rem;
+    }    
+    .form-detail input {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        padding: 1rem 0 1rem 1.5rem;
+    }
+    .form-detail textarea {
+        padding: 1.3rem 0 0 1.5rem;
+        font-size: 1.5rem;
+    } 
+    .form-detail .coman-but {
+        font-size: 24px;
+    }  
+    .icon-data h6 {
+        font-size: 2.2rem;
+        line-height: 4.8rem;
+    }
+    .icon-data a {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }    
+    .icon-data i {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-right: 1rem;
+    } 
+    .Subcribe-detail .sub-data {
+        flex-wrap: wrap;
+        row-gap: 1rem;
+    }
+    .sub-data input:first-child {
+        text-align: center;
+    }
+    .coman-but {
+        margin: 0 auto;
+    } 
+    .Subcribe-detail h2 {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+    .Subcribe-detail .sub-data {
+        width: 81%;
+        padding: 0.5rem 0.8rem 0.5rem 2.2rem;
+    }    
+    .Subcribe-detail p {
+        font-size: 1.2rem;
+        line-height: 2.3rem;
+        max-width: 38rem;
+    }    
+    footer .logo {
+        width: 15rem;
+    }  
+    .information h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .pic-data p {
+        font-size: 1.6rem;
+        line-height: 2.3rem;
+        max-width: 37.7rem;
+    }
+    .information ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .information ul li a i {
+        padding-right: 1.5rem;
+        padding-bottom: 1.5rem;
+        font-size: 1.6rem;
+    }
+    .Quick h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Quick ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .Follow h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Follow i {
+        font-size: 1.8rem;
+    }
+    .Follow a {
+        padding-right: 1.8rem;
+    }
+    .footer-last {
+        padding: 1.5rem 0;
+    }
+    .footer-last p {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    #Testimonial .title-testi {
+        width: 32rem;
+    }
+    #hero .hero-detail {
+        width: 75%;
+        flex-wrap: wrap;
+        padding: 2rem 2rem 2rem 2.6rem;
+        row-gap: 2rem;
+    }    
+    #hero h1 {
+        font-size: 40px;
+        line-height: 70px;
+    }
+  
+}
+
+@media screen and (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+
+    .col-sm-1 {
+        width: 8.33%;
+    }
+
+    .col-sm-2 {
+        width: 16.66%;
+    }
+
+    .col-sm-3 {
+        width: 25%;
+    }
+
+    .col-sm-4 {
+        width: 33.33%;
+
+    }
+
+    .col-sm-5 {
+        width: 41.65%;
+    }
+
+    .col-sm-6 {
+        width: 50%;
+    }
+
+    .col-sm-7 {
+        width: 58.33%;
+    }
+
+    .col-sm-8 {
+        width: 66.66%;
+    }
+
+    .col-sm-9 {
+        width: 75%;
+    }
+
+    .col-sm-10 {
+        width: 83.33%;
+    }
+
+    .col-sm-11 {
+        width: 91.66%;
+    }
+
+    .col-sm-12 {
+        width: 100%;
+    }
+
+    section {
+        margin-top: 10rem;
+    }
+
+    .main-title {
+        font-size: 35px;
+        line-height: 50px;
+        margin-bottom: 1.8rem;
+    }
+
+    .about-data h3 {
+        font-size: 25px;
+        line-height: 50px;
+    }
+
+    .about-detail .Founder-detail {
+        padding-right: 0rem;
+    }
+    .Popular-heading {
+        margin-top: 7rem;
+    }
+    .popular-packages h3 {
+        font-size: 3rem;
+        line-height: 50px;
+    }
+    .popular-data {
+        text-align: center;
+    }
+    .destination h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .going h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-fut-data h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-future {
+        margin-left: 0rem;
+    }
+
+    .blog-left-data {
+        margin-right: 0;
+    }
+
+    #Testimonial .container {
+        max-width: 540px;
+        margin: 0 auto;
+
+    }
+
+    #Testimonial h4 {
+        font-size: 1.5rem;
+        line-height: 5rem;
+     
+    }
+     #Testimonial h2 {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+    .nevigation-button {
+        justify-content: center;
+    }
+    .right-detail h3 {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+    .right-detail {
+        margin-left: 0rem;
+        
+    }
+    .form-detail input {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        padding: 1rem 0 1rem 1.5rem;
+    }
+    .form-detail textarea {
+        padding: 1.3rem 0 0 1.5rem;
+        font-size: 1.5rem;
+    } 
+    .form-detail .coman-but {
+        font-size: 32px;
+    }     
+    .icon-data h6 {
+        font-size: 2.2rem;
+        line-height: 4.8rem;
+    }
+    .icon-data a {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }    
+    .icon-data i {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-right: 1rem;
+    }
+    .Subcribe-detail h2 {
+        font-size: 3.5rem;
+        line-height: 4rem;
+    }
+    .Subcribe-detail .sub-data {
+        width: 83%;
+        padding: 0.5rem 0.8rem 0.5rem 2.2rem;
+    }  
+    .Subcribe-detail p {
+        font-size: 1.3rem;
+        line-height: 2.5rem;
+        max-width: 45rem;
+    }
+    footer .logo {
+        width: 15rem;
+    }  
+    .information h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .pic-data p {
+        font-size: 1.6rem;
+        line-height: 2.3rem;
+        max-width: 37.7rem;
+    }
+    .information ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .information ul li a i {
+        padding-right: 1.5rem;
+        padding-bottom: 1.5rem;
+        font-size: 1.6rem;
+    }
+    .Quick h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Quick ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .Follow h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Follow i {
+        font-size: 1.8rem;
+    }
+    .Follow a {
+        padding-right: 1.8rem;
+    }
+    .footer-last {
+        padding: 1.5rem 0;
+    }
+    .footer-last p {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    #hero .hero-detail {
+        width: 93%;
+    }    
+    #hero h1 {
+        font-size: 50px;
+        line-height: 80px;
+    }
+    
+     
+  
+     
+    
+   
+
+   
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .col-md-1 {
+        width: 8.33%;
+    }
+
+    .col-md-2 {
+        width: 16.66%;
+    }
+
+    .col-md-3 {
+        width: 25%;
+    }
+
+    .col-md-4 {
+        width: 33.33%;
+
+    }
+
+    .col-md-5 {
+        width: 41.65%;
+    }
+
+    .col-md-6 {
+        width: 50%;
+    }
+
+    .col-md-7 {
+        width: 58.33%;
+    }
+
+    .col-md-8 {
+        width: 66.66%;
+    }
+
+    .col-md-9 {
+        width: 75%;
+    }
+
+    .col-md-10 {
+        width: 83.33%;
+    }
+
+    .col-md-11 {
+        width: 91.66%;
+    }
+
+    .col-md-12 {
+        width: 100%;
+    }
+
+    section {
+        margin-top: 12rem;
+    }
+
+    .main-title {
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 2.3rem;
+    }
+
+    .about-data h3 {
+        font-size: 40px;
+        line-height: 58px;
+    }
+
+    .popular-packages h3 {
+        font-size: 4.5rem;
+        line-height: 55px;
+    }
+    .Popular-heading {
+        margin-top: 8rem;
+    }
+    .popular-data {
+        text-align: center;
+    }
+
+    .destination h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .going h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-fut-data h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .travel-future {
+        margin-left: 0rem;
+    }
+
+    .blog-left-data {
+        margin-right: 0;
+        justify-content: space-between;
+    }
+
+    .going h4 {
+        margin-top: 0rem;
+        margin-bottom: 4.5rem;
+    }
+
+    #Testimonial .container {
+        max-width: 720px;
+        margin: 0 auto;
+    }
+
+    #Testimonial h4 {
+        font-size: 2rem;
+        line-height: 6rem;
+     
+    }
+     #Testimonial h2 {
+        font-size: 5rem;
+        line-height: 6rem;
+    }
+    .nevigation-button {
+        justify-content: center;
+    }
+    .right-detail h3 {
+        font-size: 4rem;
+        line-height: 5.8rem;
+    }
+    .form-detail {
+         margin-right: 0rem;
+    }
+    .Subcribe-detail h2 {
+        font-size: 4.5rem;
+        line-height: 5rem;
+    }
+    .Subcribe-detail .sub-data {
+        width: 63%;
+        padding: 0.5rem 0.8rem 0.5rem 2.2rem;
+    } 
+    .Subcribe-detail p {
+        font-size: 1.5rem;
+        line-height: 2.8rem;
+        max-width: 58rem;
+    }  
+    footer .logo {
+        width: 15rem;
+    }  
+    .information h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .pic-data p {
+        font-size: 1.6rem;
+        line-height: 2.3rem;
+        max-width: 37.7rem;
+    }
+    .information ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .information ul li a i {
+        padding-right: 1.5rem;
+        padding-bottom: 1.5rem;
+        font-size: 1.6rem;
+    }
+    .Quick h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Quick ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .Follow h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Follow i {
+        font-size: 1.8rem;
+    }
+    .Follow a {
+        padding-right: 1.8rem;
+    }
+    .footer-last {
+        padding: 1.5rem 0;
+    }
+    .footer-last p {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    } 
+    #hero .hero-detail {
+        width: 76%;
+    }    
+    #hero h1 {
+        font-size: 60px;
+        line-height: 90px;
+    }
+    
+  
+        
+
+}
+@media screen and (max-width: 992px) {
+    nav > ul   {
+        position: fixed;
+        top: 0;
+        right: -70%;
+        width: 50%;
+        height: 100vh;
+        background-color: #01577A;
+        transition: all 1s;
+    }
+
+    header nav>ul {
+        display: block;
+    }
+    header nav>ul>li {
+        padding: 1.5rem 0;
+    
+    }
+    header nav>ul>li>a {
+        padding-left: 2rem;
+        padding-right: 0;
+    
+    }
+    header>.container>nav>ul>li{
+        width: 100%;
+    }
+    .showHide {
+        right: 0;
+    } 
+    #menu > i {
+        float: right;
+        padding: 20px;
+        font-size: 20px;
+        position: relative;
+        z-index: 999;
+        color: white;
+        cursor: pointer;
+    }
+    nav>i {
+        font-size: 20px;
+        color:  white;
+        cursor: pointer;
+    }
+    .fa-bars, .fa-xmark {
+        display: block;
+    }
+    #Submenu, .subsubmenu {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        
+    }
+    #Submenu > li > a {
+        padding-left: 40px;
+    }
+    .subsubmenu > li > a {
+        padding-left: 60px !important;
+    }
+    nav > ul > li > a {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .col-lg-1 {
+        width: 8.33%;
+    }
+
+    .col-lg-2 {
+        width: 16.66%;
+    }
+
+    .col-lg-3 {
+        width: 25%;
+    }
+
+    .col-lg-4 {
+        width: 33.33%;
+
+    }
+
+    .col-lg-5 {
+        width: 41.65%;
+    }
+
+    .col-lg-6 {
+        width: 50%;
+    }
+
+    .col-lg-7 {
+        width: 58.33%;
+    }
+
+    .col-lg-8 {
+        width: 66.66%;
+    }
+
+    .col-lg-9 {
+        width: 75%;
+    }
+
+    .col-lg-10 {
+        width: 83.33%;
+    }
+
+    .col-lg-11 {
+        width: 91.66%;
+    }
+
+    .col-lg-12 {
+        width: 100%;
+    }
+
+    .about-detail .Founder-detail {
+        padding-right: 10rem;
+    }
+
+    .popular-data {
+        text-align: right;
+    }
+    .Popular-heading {
+        margin-top: 8rem;
+    }
+
+    .place-price {
+        flex-wrap: wrap;
+    }
+
+    .destination h3 {
+        font-size: 36px;
+        line-height: 51px;
+    }
+
+    .going h3 {
+        font-size: 36px;
+        line-height: 51px;
+    }
+
+    .travel-fut-data h3 {
+        font-size: 36px;
+        line-height: 51px;
+    }
+
+    .travel-future {
+        margin-left: 0rem;
+    }
+
+    .blog-left-data {
+        margin-right: 0;
+        justify-content: space-between;
+    }
+
+    .going h4 {
+        margin-top: 5rem;
+        margin-bottom: 0rem;
+    }
+
+    #Testimonial .container {
+        max-width: 960px;
+        margin-left: calc((100% - 96rem) /2);
+    }
+
+    #Testimonial h4 {
+        font-size: 2.5rem;
+        line-height: 6.5rem;
+     
+    }
+     #Testimonial h2 {
+        font-size: 5.5rem;
+        line-height: 6.5rem;
+    }
+    .nevigation-button {
+        justify-content: flex-end;
+    }
+    .form-detail {
+        margin-right: 1.5rem;
+    }
+    .right-detail {
+        margin-left: 5.5rem;
+        padding-top: 1rem;
+    } 
+    .form-detail input {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        padding: 1rem 0 1rem 1.5rem;
+    }
+    .form-detail textarea {
+        padding: 1.3rem 0 0 1.5rem;
+        font-size: 1.5rem;
+    }    
+    .icon-data h6 {
+        font-size: 2.2rem;
+        line-height: 4.8rem;
+    }
+    .icon-data a {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }    
+    .icon-data i {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-right: 1rem;
+    }   
+    .right-detail p {
+        margin-bottom: 4rem;
+    } 
+    .icon-detail {
+        row-gap: 4rem;
+    }  
+    .Subcribe-detail h2 {
+        font-size: 5.5rem;
+        line-height: 6rem;
+    } 
+    .Subcribe-detail .sub-data {
+        width: 50%;
+        padding: 0.7rem 0.8rem 0.7rem 2.2rem;
+    }   
+    .Subcribe-detail p {
+        font-size: 1.6rem;
+        line-height: 3rem;
+    }  
+    footer .logo {
+        width: 15rem;
+    }  
+    .information h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .pic-data p {
+        font-size: 1.6rem;
+        line-height: 2.3rem;
+        max-width: 37.7rem;
+    }
+    .information ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .information ul li a i {
+        padding-right: 1.5rem;
+        padding-bottom: 1.5rem;
+        font-size: 1.6rem;
+    }
+    .Quick h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Quick ul li a {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    .Follow h3 {
+        font-size: 2.1rem;
+        line-height: 7rem;
+    }
+    .Follow i {
+        font-size: 1.8rem;
+    }
+    .Follow a {
+        padding-right: 1.8rem;
+    }
+    .footer-last {
+        padding: 1.5rem 0;
+    }
+    .footer-last p {
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+    }
+    header nav>ul>li>a {
+        padding: 0px 1.3rem;
+    }
+    header .logo {
+        width: 15rem;
+    }
+    #hero .hero-detail {
+        width: 70%;
+    
+    } 
+    #hero h1 {
+        font-size: 66px;
+        line-height: 100px;
+    }
+    
+ 
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+
+    .col-xl-1 {
+        width: 8.33%;
+    }
+
+    .col-xl-2 {
+        width: 16.66%;
+    }
+
+    .col-xl-3 {
+        width: 25%;
+    }
+
+    .col-xl-4 {
+        width: 33.33%;
+
+    }
+
+    .col-xl-5 {
+        width: 41.65%;
+    }
+
+    .col-xl-6 {
+        width: 50%;
+    }
+
+    .col-xl-7 {
+        width: 58.33%;
+    }
+
+    .col-xl-8 {
+        width: 66.66%;
+    }
+
+    .col-xl-9 {
+        width: 75%;
+    }
+
+    .col-xl-10 {
+        width: 83.33%;
+    }
+
+    .col-xl-11 {
+        width: 91.66%;
+    }
+
+    .col-xl-12 {
+        width: 100%;
+    }
+
+    section {
+        margin-top: 15rem;
+    }
+
+    .main-title {
+        font-size: 60px;
+        line-height: 70px;
+        margin-bottom: 2.8rem;
+    }
+
+    .about-data h3 {
+        font-size: 48px;
+        line-height: 70px;
+    }
+
+    .about-detail .Founder-detail {
+        padding-right: 13rem;
+    }
+
+    .popular-packages h3 {
+        font-size: 5.5rem;
+        line-height: 60px;
+    }
+    .Popular-heading {
+        margin-top: 8rem;
+    }
+
+    .place-price {
+        flex-wrap: nowrap;
+    }
+    .destination {
+        margin: 0;
+    }
+    .going {
+        margin: 0;
+    }
+    .travel-fut-data p {
+        margin-top: 1rem;
+        margin-bottom: 10rem;
+    }
+    .travel-future {
+        margin-left: 2.9rem;
+    }
+    .blog-left-data {
+        margin-right: 2.9rem;
+    }
+
+    .going h4 {
+        margin-top: 0rem;
+    }
+
+    #Testimonial .container {
+        max-width: 1140px;
+        margin-left: calc((100% - 114rem) /2);
+    }
+
+    #Testimonial h4 {
+        font-size: 3rem;
+        line-height: 7rem;
+     
+    }
+     #Testimonial h2 {
+        font-size: 6rem;
+        line-height: 7rem;
+    }
+    .nevigation-button {
+        justify-content: flex-end;
+    }
+    .right-detail h3 {
+        font-size: 5.5rem;
+        line-height: 6rem;
+    }
+    .form-detail {
+        margin-right: 1.5rem;
+    }
+    .right-detail {
+        padding-top: 3rem;
+    } 
+    .form-detail input {
+        font-size: 1.8rem;
+        line-height: 3.3rem;
+        padding: 1.4rem 0 1.4rem 1.9rem;
+    }
+    .form-detail textarea {
+        padding: 1.3rem 0 0 1.8rem;
+        font-size: 1.8rem;
+    }    
+    .icon-data h6 {
+        font-size: 2.4rem;
+        line-height: 5.1rem;
+    }
+    .icon-data a {
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+    }    
+    .icon-data i {
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        margin-right: 2rem;
+    }   
+    .right-detail p {
+        margin-bottom: 5rem;
+    } 
+    .icon-detail {
+        row-gap: 5rem;
+    } 
+    .Subcribe-detail h2 {
+        font-size: 6rem;
+        line-height: 7rem;
+    }
+    .Subcribe-detail .sub-data {
+        width: 50%;
+        padding: 1rem 0.8rem 1rem 2.2rem;
+    } 
+    .Subcribe-detail p {
+        font-size: 1.8rem;
+        line-height: 3.4rem;
+      
+    }
+    footer .logo {
+        width: 20rem;
+    }  
+    .information h3 {
+        font-size: 2.4rem;
+        line-height: 7rem;
+    }
+    .pic-data p {
+        font-size: 1.8rem;
+        line-height: 2.5rem;
+        max-width: 43.7rem;
+    }
+    .information ul li a {
+        font-size: 1.8rem;
+        line-height: 3.4rem;
+    }
+    .information ul li a i {
+        padding-right: 2rem;
+        padding-bottom: 2rem;
+        font-size: 1.8rem;
+    }
+    .Quick h3 {
+        font-size: 2.4rem;
+        line-height: 7rem;
+    }
+    .Quick ul li a {
+        font-size: 1.8rem;
+        line-height: 3.4rem;
+    }
+    .Follow h3 {
+        font-size: 2.4rem;
+        line-height: 7rem;
+    }
+    .Follow i {
+        font-size: 2rem;
+    }
+    .Follow a {
+        padding-right: 2rem;
+    }
+    .footer-last {
+        padding: 2rem 0;
+    }
+    .footer-last p {
+        font-size: 1.8rem;
+        line-height: 3.4rem;
+    } 
+    header nav>ul>li>a {
+        padding: 0px 2.3rem;
+    }
+    header .logo {
+        width: 18rem;
+    }  
+    #hero .hero-detail {
+        width: 64%;
+    } 
+    #hero h1 {
+        font-size: 90px;
+        line-height: 110px;
+    }
+  
+    
+}
+
+@media screen and (min-width: 1400px) {
+    .container {
+        max-width: 1320px;
+    }
+
+    .col-xxl-1 {
+        width: 8.33%;
+    }
+
+    .col-xxl-2 {
+        width: 16.66%;
+    }
+
+    .col-xxl-3 {
+        width: 25%;
+    }
+
+    .col-xxl-4 {
+        width: 33.33%;
+
+    }
+
+    .col-xxl-5 {
+        width: 41.65%;
+    }
+
+    .col-xxl-6 {
+        width: 50%;
+    }
+
+    .col-xxl-7 {
+        width: 58.33%;
+    }
+
+    .col-xxl-8 {
+        width: 66.66%;
+    }
+
+    .col-xxl-9 {
+        width: 75%;
+    }
+
+    .col-xxl-10 {
+        width: 83.33%;
+    }
+
+    .col-xxl-11 {
+        width: 91.66%;
+    }
+
+    .col-xxl-12 {
+        width: 100%;
+    }
+
+    #Testimonial .container {
+        max-width: 1340px;
+        margin-left: calc((100% - 134rem) /2);
+    }
+    .form-detail {
+        margin-right: 5.5rem;
+    }
+    header nav>ul>li>a {
+        padding: 0px 3.3rem;
+    }
+    header .logo {
+        width: 20rem;
+    }
+    #hero .hero-detail {
+        width: 58%;
+    } 
+    
+}
