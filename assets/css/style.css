@@ -137,7 +137,7 @@ section {
     margin-top: 15rem;
 }
 
-/*****************HEADER********************/
+/HEADER*/
 header {
     background-color: transparent;
     position: absolute;
@@ -241,10 +241,10 @@ header .container>nav>ul>li:hover #Submenu {
 }
 
 
-/********************************************/
+//
 
 
-/*****************HERO********************/
+/HERO*/
 
 #hero {
     margin-top: 0;
@@ -313,10 +313,10 @@ header .container>nav>ul>li:hover #Submenu {
 
 
 
-/********************************************/
+//
 
 
-/********************About *****************/
+/**About *****************/
 .detail-about {
     margin-top: 8rem;
     row-gap: 8.5rem;
@@ -398,9 +398,9 @@ header .container>nav>ul>li:hover #Submenu {
     margin-bottom: 0;
 }
 
-/********************************************/
+//
 
-/********************Packages*****************/
+/*Packages/
 
 
 .Popular-heading {
@@ -505,10 +505,10 @@ header .container>nav>ul>li:hover #Submenu {
     margin: 0 0.4rem;
 }
 
-/********************************************/
+//
 
 
-/****************DESTINATION*******************/
+/*DESTINATION/
 
 
 .mySwiper {
@@ -614,10 +614,10 @@ header .container>nav>ul>li:hover #Submenu {
 }
 
 
-/********************************************/
+//
 
 
-/*****************BLOG******************/
+/BLOG*/
 #Blog {
     margin-top: 3rem;
 }
@@ -771,10 +771,10 @@ header .container>nav>ul>li:hover #Submenu {
 
 
 
-/********************************************/
+//
 
 
-/* ****************TESTIMONIAL************** */
+/* ***************TESTIMONIAL************* */
 
 #Testimonial .swiper-wrapper {
     padding: 13rem 0 0.5rem;
@@ -919,10 +919,10 @@ header .container>nav>ul>li:hover #Submenu {
 
 
 
-/* ********************************* */
+/* ********************************* */
 
 
-/******************CONTACT********************/
+/*CONTACT*/
 
 .form-data {
     margin-top: 8rem;
@@ -1038,9 +1038,9 @@ header .container>nav>ul>li:hover #Submenu {
 
 
 
-/********************************************/
+//
 
-/******************Subcribe******************/
+/*Subcribe*/
 #Subcribe {
     width: 100%;
     padding: 11.7rem 0;
@@ -1110,10 +1110,10 @@ header .container>nav>ul>li:hover #Submenu {
 }
 
 
-/********************************************/
+//
 
 
-/****************FOOTER******************/
+/*FOOTER*/
 .footer-detail {
     margin-top: 11.5rem;
     row-gap: 4rem;
@@ -1222,4 +1222,4 @@ footer .logo {
 
 
 
-/********************************************/
+//
